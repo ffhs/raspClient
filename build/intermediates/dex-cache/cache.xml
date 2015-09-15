@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pascal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.2/559b70ac8a0d5cad611da4223137a920147201ba/jackson-core-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/jackson-core-2.3.2-4bb1e2c04345ca5662db3ec9b088dfc19ffecee4.jar" />
+    </item>
+    <item
+        jar="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/classes-e32fc33e8f816ac53de319ee0d7812834c6d9611.jar" />
+    </item>
+    <item
+        jar="/home/pascal/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/1.0.1.RELEASE/e132d929bd181941f79b0d63edafb8a86ae6fd33/spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-1.0.1.RELEASE-1a3f5f2be23ff8cf2bc4a787f148f8e191d037ab.jar" />
+    </item>
+    <item
+        jar="/home/pascal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.2/c75edc740a6d8cb1cef6fa82fa594e0bce561916/jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/jackson-databind-2.3.2-1a810149e5a49bbc74ab4e4bada0e6c64892b8c4.jar" />
+    </item>
+    <item
+        jar="/home/pascal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-f77638e95670bcd827339fd208f9e88fd5f0c83e.jar" />
+    </item>
+    <item
+        jar="/home/pascal/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/f5e853a20b60758922453d56f9ae1e64af5cb3da/jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.3.0-8ee51c7b29d51fdd1cf29697015a616cc549a92b.jar" />
+    </item>
+    <item
+        jar="/home/pascal/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/1.0.1.RELEASE/e68f0e8e4b636ee30c4de58953be38d9b72a5e3b/spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/spring-android-core-1.0.1.RELEASE-27cdcbeb694c0d0fa08c9eaf9cefe2e819e3d2db.jar" />
+    </item>
+    <item
+        jar="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-efcc459096f9dedf1f005f1880698f431920a54d.jar" />
+    </item>
+    <item
+        jar="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/pascal/AndroidStudioProjects/RaspberryController/app/build/intermediates/pre-dexed/debug/classes-3f646604d0c7f6a6910926b00d6dc60c7f7507fa.jar" />
+    </item>
+
+</items>
