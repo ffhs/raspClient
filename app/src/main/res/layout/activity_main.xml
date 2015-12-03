@@ -117,11 +117,6 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Settings"
-                android:id="@+id/buttonSettings" />
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
                 android:text="Emergency"
                 android:id="@+id/buttonEmergency" />
         </LinearLayout>
