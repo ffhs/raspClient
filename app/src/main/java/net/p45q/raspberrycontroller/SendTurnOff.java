@@ -9,7 +9,10 @@ import org.springframework.http.converter.json.MappingJackson2HttpMessageConvert
 import org.springframework.web.client.RestTemplate;
 
 /**
- * Created by pascal on 8/17/15.
+ * SendTurnOff
+ *
+ * Pascal Bieri, Thierry Baumann
+ * 9/13/15
  */
 public class SendTurnOff extends AsyncTask<Integer, Void, Integer> {
     private static final String TAG = "SendTurnOff";

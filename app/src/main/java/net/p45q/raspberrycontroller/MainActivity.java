@@ -12,7 +12,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-
+/**
+ * MainActivity
+ *
+ * Pascal Bieri
+ * 9/13/15
+ */
 public class MainActivity extends ActionBarActivity {
     private static final String TAG = "Main";
     Context context;
